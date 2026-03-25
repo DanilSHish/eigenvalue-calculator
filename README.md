@@ -1,14 +1,8 @@
 # Eigenvalue Calculator for Symmetric Matrices
 
-[![C++](https://img.shields.io/badge/C++-CLI-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B/CLI)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2019+-purple.svg)](https://visualstudio.microsoft.com/)
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2+-green.svg)](https://dotnet.microsoft.com/)
-
 **English** | [Русский](README.ru.md)
 
 > A Windows Forms desktop application for computing eigenvalues and eigenvectors of symmetric matrices using the **inverse iteration method**.
-
-![Application Screenshot](assets/screenshot.png)
 
 ## Documentation
 
@@ -110,7 +104,3 @@ msbuild EigenvalueCalculator.sln /p:Configuration=Release /p:Platform="x86"
 3. Введите элементы матрицы (верхний треугольник)
 4. Введите начальный вектор
 5. Нажмите **Вычислить**
-
-## Лицензия
-
-Проект распространяется под лицензией [MIT](LICENSE).

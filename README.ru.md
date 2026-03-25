@@ -1,12 +1,6 @@
 # Калькулятор собственных значений симметричных матриц
 
-[![C++](https://img.shields.io/badge/C++-CLI-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B/CLI)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2019+-purple.svg)](https://visualstudio.microsoft.com/)
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2+-green.svg)](https://dotnet.microsoft.com/)
-
 > Десктопное приложение Windows Forms для вычисления собственных значений и собственных векторов симметричных матриц методом **обратных итераций**.
-
-![Скриншот приложения](assets/screenshot.png)
 
 ## Возможности
 
@@ -187,19 +181,3 @@ x1 x2 x3 ... xn
 3. Зафиксируйте изменения (`git commit -m 'Add some AmazingFeature'`)
 4. Отправьте в ветку (`git push origin feature/AmazingFeature`)
 5. Откройте Pull Request
-
-## Лицензия
-
-Этот проект распространяется под лицензией MIT - см. файл [LICENSE](LICENSE) для подробностей.
-
-## Благодарности
-
-- Курсовая работа по дисциплине "Численные методы"
-- Справочник по алгоритму: "Numerical Recipes in C"
-- Иконки от [Icons8](https://icons8.com)
-
-## Контакты
-
-Автор: [Ваше Имя](mailto:your.email@example.com)
-
-Ссылка на проект: [https://github.com/yourusername/eigenvalue-calculator](https://github.com/yourusername/eigenvalue-calculator)
